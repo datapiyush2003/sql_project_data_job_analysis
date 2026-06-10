@@ -27,4 +27,4 @@ salary_year_avg DESC
 
 LIMIT 10
 
--- thought it would be better if we could see the company name so used joins to join with company dim table and extract company name
+-- thought it would be nicer if we could see the company name so used joins to join with company_dim table and extract company name
